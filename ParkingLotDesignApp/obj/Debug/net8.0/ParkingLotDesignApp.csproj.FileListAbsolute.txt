@@ -1,0 +1,14 @@
+C:\Users\szcze\Documents\GitHub\Design-Activities\ParkingLotDesignApp\bin\Debug\net8.0\ParkingLotDesignApp.exe
+C:\Users\szcze\Documents\GitHub\Design-Activities\ParkingLotDesignApp\bin\Debug\net8.0\ParkingLotDesignApp.deps.json
+C:\Users\szcze\Documents\GitHub\Design-Activities\ParkingLotDesignApp\bin\Debug\net8.0\ParkingLotDesignApp.runtimeconfig.json
+C:\Users\szcze\Documents\GitHub\Design-Activities\ParkingLotDesignApp\bin\Debug\net8.0\ParkingLotDesignApp.dll
+C:\Users\szcze\Documents\GitHub\Design-Activities\ParkingLotDesignApp\bin\Debug\net8.0\ParkingLotDesignApp.pdb
+C:\Users\szcze\Documents\GitHub\Design-Activities\ParkingLotDesignApp\obj\Debug\net8.0\ParkingLotDesignApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szcze\Documents\GitHub\Design-Activities\ParkingLotDesignApp\obj\Debug\net8.0\ParkingLotDesignApp.AssemblyInfoInputs.cache
+C:\Users\szcze\Documents\GitHub\Design-Activities\ParkingLotDesignApp\obj\Debug\net8.0\ParkingLotDesignApp.AssemblyInfo.cs
+C:\Users\szcze\Documents\GitHub\Design-Activities\ParkingLotDesignApp\obj\Debug\net8.0\ParkingLotDesignApp.csproj.CoreCompileInputs.cache
+C:\Users\szcze\Documents\GitHub\Design-Activities\ParkingLotDesignApp\obj\Debug\net8.0\ParkingLotDesignApp.dll
+C:\Users\szcze\Documents\GitHub\Design-Activities\ParkingLotDesignApp\obj\Debug\net8.0\refint\ParkingLotDesignApp.dll
+C:\Users\szcze\Documents\GitHub\Design-Activities\ParkingLotDesignApp\obj\Debug\net8.0\ParkingLotDesignApp.pdb
+C:\Users\szcze\Documents\GitHub\Design-Activities\ParkingLotDesignApp\obj\Debug\net8.0\ParkingLotDesignApp.genruntimeconfig.cache
+C:\Users\szcze\Documents\GitHub\Design-Activities\ParkingLotDesignApp\obj\Debug\net8.0\ref\ParkingLotDesignApp.dll
